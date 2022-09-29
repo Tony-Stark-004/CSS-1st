@@ -1,0 +1,23 @@
+ol,ul{
+    color: rgb(161, 40, 40);
+}
+
+p{
+    color: rgb(158, 78, 22);
+    
+}
+
+ul{
+     letter-spacing: 4px;
+}
+
+body{
+    text-align: justify;
+    font-family:cursive;
+    
+}
+
+a[href^="https://"] {
+    background-color: yellow;
+    color: brown;
+}
